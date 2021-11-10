@@ -1,4 +1,4 @@
-
+// The script code by mane at 10/11/2021
 var old_img_src = ""
 var find_count = 0
 document.querySelectorAll(".inventory_page > .itemHolder > .item").forEach(elem=>{
